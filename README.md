@@ -1,5 +1,5 @@
 # JuBe-v
-arprojektet
+varprojektet
 Min loggbok över vårprojektet i Webbutveckling 1
 
 Vecka 9
