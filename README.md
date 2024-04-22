@@ -14,11 +14,16 @@ Under dagens lektion tillverkade jag vår moodboard. Då jag anser att det är m
 
 Vecka 11
 
-Denna veckan var jag hemma och sjuk. Jag kollade med mina gruppmedlemmar om de hade någon uppgift åt mig men då vi kände oss i fas och klara med det mesta sa de att jag ej behövde bidra med något.
+Denna veckan var jag hemma och sjuk. Jag kollade med mina gruppmedlemmar om de hade någon uppgift åt mig men då vi kände oss i fas och klara med det mesta i planeringsstadiet sa de att jag ej behövde bidra med något.
 
 Vecka 12
 
-Lektionen var kapad i hälften denna vecka då vi hade yrkesinformation på morgonen. Tyvärr hade jag precis fått en lånedator som tycktes vara 20 år gammal och spenderade hela lektionen på att försöka logga in mig. Därmed satt jag och kollade när Kevin gjorde vår logotyp och försökte hjälpa till bäst jag kunde. Logotypen blev väldigt bra, den använder våra färger och är konstruerad som ett förstoringsglas med en karta i linsen och en pin. Tanken är att den ska förmedla tanken med vår tjänst, en tag med tillhörande app som med hjälp av gps spårar valfritt objekt.
+Lektionen var kapad i hälften denna vecka då vi hade yrkesinformation på morgonen. Tyvärr hade jag precis fått en lånedator som tycktes vara 20 år gammal och spenderade hela lektionen på att försöka logga in mig. Därmed satt jag och kollade när Kevin gjorde vår logotyp och försökte hjälpa till bäst jag kunde. Logotypen blev väldigt bra, den använder våra färger och är konstruerad som ett förstoringsglas med en karta i linsen och en pin. Tanken är att den ska förmedla tanken med produkten, en tag med tillhörande app som med hjälp av gps spårar valfritt objekt.
 
 Vecka 15
 
+Idag började vi med webbsidorna, vi delade upp arbetet så att Sam gör hemsidan, Kevin gör customer support-sidan och jag produkt/köpsidan. Då vi bestämt oss för att använda Bootstrap inledde jag med att skapa en "theme" där jag implementerade våra valda färger och även skapade en "svart" nyans som är en mycket mörk ton av vår primärfärg och en "vit" nyans som är en mycket ljus nyans av vår sekundärfärg.
+
+Vecka 16
+
+Under dagens lektion fortsatte vi arbeta med var sin sida. Kevin designade dessutom en footer och jag en header. Vi stötte på vissa problem till följd av att vi inte är särskilt erfarna med Bootstrap men det var inget som inte gick att lösa.
