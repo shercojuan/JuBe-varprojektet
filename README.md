@@ -27,3 +27,10 @@ Idag började vi med webbsidorna, vi delade upp arbetet så att Sam gör hemsida
 Vecka 16
 
 Under dagens lektion fortsatte vi arbeta med var sin sida. Kevin designade dessutom en footer och jag en header. Vi stötte på vissa problem till följd av att vi inte är särskilt erfarna med Bootstrap men det var inget som inte gick att lösa.
+
+Vecka 17
+
+Denna vecka fortsatte vi att arbeta med våra sidor. Jag blev i princip klar, så när som på ett problem jag stötte på vad gällde att centrera objekt... Jag valde även, brist på bilder på den faktiska produkten, att infoga kattbilder på min sida.
+
+Vecka 18
+
